@@ -67,7 +67,7 @@ The app features a dynamic video background system with:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Aoi-03/City-of-Joy-AI-Street-Guide-kiro/tree/main)
 cd kolkata-local-guide
 
 # Install dependencies
