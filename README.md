@@ -37,13 +37,13 @@ An authentic cultural companion for Kolkata built with React and Tailwind CSS, f
 - **fast-check** - Property-based testing library
 - **ESLint** - Code linting and formatting
 
-## 🎨 Custom Color Palette
+## Custom Color Palette
 
 - **Yellow Taxi**: `#fcdb03` - Iconic Kolkata taxi color (primary background)
 - **Terracotta Red**: `#c65d07` - Traditional Bengali terracotta (accents and buttons)
 - **Vintage Off-White**: `#faf7f0` - Colonial architecture inspired (content backgrounds)
 
-## 🎥 Video Background System
+## Video Background System
 
 The app features a dynamic video background system with:
 - **HD Video Playlist**: Automatically cycles through 3 HD Kolkata cityscape videos
@@ -56,7 +56,7 @@ The app features a dynamic video background system with:
 - `14316794_1920_1080_30fps.mp4` - 1080p 30fps secondary video  
 - `14623878_1920_1080_25fps.mp4` - 1080p 25fps tertiary video
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -97,7 +97,7 @@ npm run lint
 3. Update the video playlist in `src/components/Common/BackgroundVideo.jsx`
 4. Videos will automatically cycle through the playlist
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -153,7 +153,7 @@ videos/                    # HD video assets (add your own)
 - Follow the established file naming conventions
 - Write comprehensive tests for all components
 
-## 🧪 Testing
+## Testing
 
 The project uses a comprehensive dual testing approach:
 - **Unit Tests**: Specific examples and edge cases using Vitest
@@ -169,7 +169,7 @@ The project uses a comprehensive dual testing approach:
 
 Run tests with: `npm test`
 
-## 🎯 Key Components
+## Key Components
 
 ### BackgroundVideo
 Manages the rotating HD video playlist with smooth transitions and optimized overlays.
@@ -183,7 +183,7 @@ Featured daily slang with rotation logic, cultural context, and usage examples.
 ### FoodMap
 Interactive food discovery with list/card view toggle and detailed location information.
 
-## 🌟 Recent Updates
+## Recent Updates
 
 - ✅ **HD Video Backgrounds**: Added rotating playlist of authentic Kolkata videos
 - ✅ **Text Visibility**: Enhanced with drop-shadow effects and proper contrast
@@ -192,7 +192,7 @@ Interactive food discovery with list/card view toggle and detailed location info
 - ✅ **Performance**: Optimized with local video assets and efficient state management
 - ✅ **Test Coverage**: Achieved 98.5% test pass rate with comprehensive coverage
 
-## 📱 Browser Support
+## Browser Support
 
 - Chrome/Chromium (recommended)
 - Firefox
@@ -200,7 +200,7 @@ Interactive food discovery with list/card view toggle and detailed location info
 - Edge
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
-## 🤝 Contributing
+## Contributing
 
 1. Follow the established code style and component patterns
 2. Ensure all tests pass before submitting changes
