@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Inter', 'Noto Sans Bengali', sans-serif;
+  }
+  
+  /* Improved text rendering */
+  * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@layer components {
+  /* Responsive container improvements */
+  .container {
+    @apply max-w-7xl;
+  }
+  
+  /* Consistent spacing utilities */
+  .section-spacing {
+    @apply py-8 sm:py-12 lg:py-16;
+  }
+  
+  .content-spacing {
+    @apply space-y-6 sm:space-y-8 lg:space-y-12;
+  }
+}
+
+@layer utilities {
+  /* Custom focus styles for better accessibility */
+  .focus-kolkata {
+    @apply focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-kolkata-yellow;
+  }
+  
+  /* Smooth transitions */
+  .transition-smooth {
+    @apply transition-all duration-300 ease-in-out;
+  }
+}
