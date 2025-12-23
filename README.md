@@ -132,7 +132,7 @@ videos/                    # HD video assets (add your own)
 └── 14623878_1920_1080_25fps.mp4
 ```
 
-## 🛠️ Development Guidelines
+## Development Guidelines
 
 ### Code Standards
 - All cultural content must be sourced from authentic product data
