@@ -1,6 +1,6 @@
 # Kolkata Local Guide - City of Joy
 
-An authentic cultural companion for Kolkata built with React and Tailwind CSS, featuring immersive HD video backgrounds and bilingual Bengali-English interface
+An authentic cultural companion for Kolkata built with React and Tailwind CSS, featuring immersive HD video backgrounds and bilingual Bengali-English interface.
 
 ## Features
 
