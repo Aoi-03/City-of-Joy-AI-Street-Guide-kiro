@@ -66,9 +66,7 @@ The app features a dynamic video background system with:
 ### Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/Aoi-03/City-of-Joy-AI-Street-Guide-kiro
-cd City-of-Joy-AI-Street-Guide-kiro
+## clone the repo and star it
 
 # Install dependencies
 npm install
